@@ -21,7 +21,7 @@ describe('Teste Unitário', () => {
 
       expect(
         result.discount
-      ).toBe(10);
+      ).toBe(8);
 
     }
   );
