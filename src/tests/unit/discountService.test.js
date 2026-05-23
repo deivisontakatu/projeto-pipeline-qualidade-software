@@ -31,7 +31,7 @@ describe('Teste Unitário', () => {
     () => {
 
       const result =
-        calculateDiscount(200);
+        calculateDiscount(300);
 
       expect(
         result.discount
