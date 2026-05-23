@@ -225,6 +225,21 @@ export function calculateDiscount(value) {
 
 # Passo 9 — Criar Interface
 
+## Alterar o App.jsx
+
+```txt
+import DiscountDashboard
+from './components/DiscountDashboard';
+
+function App() {
+
+  return <DiscountDashboard />;
+
+}
+
+export default App;
+```
+
 ## Arquivo
 
 ```txt
