@@ -25,7 +25,7 @@ export default function DiscountDashboard() {
       <div style={styles.card}>
 
         <h1 style={styles.title}>
-          Sistema Comercial
+          Calculadora de Descontos
         </h1>
 
         <p style={styles.subtitle}>
