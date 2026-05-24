@@ -25,7 +25,7 @@ export default function DiscountDashboard() {
       <div style={styles.card}>
 
         <h1 style={styles.title}>
-          Calculadora de Descontos
+          Calculadora de Descontos Pro
         </h1>
 
         <p style={styles.subtitle}>
