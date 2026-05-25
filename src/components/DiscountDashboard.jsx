@@ -4,7 +4,7 @@ import {
   calculateDiscount
 } from '../services/discountService';
 
-const x=1;
+const x = 1;
 
 export default function DiscountDashboard() {
 
