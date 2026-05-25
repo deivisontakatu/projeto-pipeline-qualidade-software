@@ -39,7 +39,7 @@ test(
     fireEvent.click(
 
       screen.getByText(
-        'Calcular'
+        'Calcular Desconto'
       )
 
     );
