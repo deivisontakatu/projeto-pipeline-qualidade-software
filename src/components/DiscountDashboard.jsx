@@ -58,7 +58,7 @@ export default function DiscountDashboard() {
           onClick={handleCalculate}
           style={styles.button}
         >
-          Calcular Desconto
+          Calcular
         </button>
 
         {
