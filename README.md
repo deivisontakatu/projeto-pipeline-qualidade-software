@@ -18,7 +18,7 @@ Demonstrar como pipelines automatizadas ajudam a:
 - validar código;
 - executar testes;
 - garantir qualidade;
-- gerar builds automaticamente.
+- gerar builds de forma automática.
 
 ---
 
